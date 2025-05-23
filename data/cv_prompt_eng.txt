@@ -1,0 +1,55 @@
+Federico Monfasani
+Email: fmonfasani@gmail.com | Phone: +54 358 5614524 | Location: Buenos Aires, Argentina
+
+Professional Profile:
+Telecommunications Engineer, Full Stack Developer, and Financial Analyst with over 15 years of experience in telecommunications, 10+ years in finance, and 5+ years in software development. Proficient in backend (Node.js, Python, NestJS). Skilled in LLMs, prompt engineering, CI/CD, AWS, Render, PostgreSQL, MongoDB.
+
+Professional Experience:
+- Prompt Engineer | Freelance (2022 - Present)
+  Developed prompts for AI models in healthcare and customer service. Pre-processed datasets for LLM training. Built testing pipelines and edge-case prompts.
+
+- Full Stack Developer | Freelance (2020 - Present)
+  Built apps with Node.js, React, NestJS. Created RESTful APIs (Swagger). Automated CI/CD with Docker, GitHub Actions.
+
+- Project Analyst | ENACOM (2018 - Present)
+  Designed tools to track 350+ telecom projects ($15B). Used PostgreSQL & MongoDB for data management.
+
+- Field Engineer | CNC-AFTIC (2014 - 2017)
+  Analyzed QoS/QoE KPIs in 2G/3G/4G networks. Built performance dashboards.
+
+- Field Engineer | Claro (2007 - 2008)
+  Cell Owner with in 2G/3G/4G networks. Built performance dashboards.
+
+
+Education:
+- Telecommunications Engineering | UNRC
+- Master’s in Finance (Thesis pending) | UTDT
+- Capital Markets Specialization | Univ. Siglo XXI
+
+Certifications:
+- Full Stack Bootcamp (Henry)
+- Prompt Engineering for LLMs (self-trained)
+- Machine Learning (Kaggle)
+- Cisco CCNA I-III
+
+Skills:
+Languages: Python, JavaScript, TypeScript
+Backend: Node.js, NestJS, Express
+DevOps: Docker, GitHub Actions, CI/CD
+Cloud: AWS, Render
+Testing: Jest, Mocha
+AI/ML: Prompt engineering, LLM fine-tuning, data curation
+
+Languages: Spanish (Native), English (B2)
+
+Key Projects:
+- Catalaxia (Productivity tools, Python)
+- Ookla QoE (Network analysis)
+- BullMarket Scrapers (Finance automation)
+
+Colleges or coworkers
+
+Mauricio Cilurzo
+Laura Spina
+Salvador Muscio
+Cristina Roldan
