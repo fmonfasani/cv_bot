@@ -1,8 +1,10 @@
-import os
-from langchain.document_loaders import TextLoader
+from utils import cargar_api_key
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
+
+cargar_api_key()  # ⚠️ Carga API desde .env
 
 def cargar_y_dividir_documento(path_txt: str, chunk_size: int = 500, chunk_overlap: int = 100):
     loader = TextLoader(path_txt)
