@@ -11,7 +11,8 @@ def crear_cadena_qa(vectorstore_dir: str = "vectorstore"):
     )
 
 def preguntar(cadena_qa, pregunta: str):
-    return cadena_qa.run(pregunta)
+    return cadena_qa.invoke(pregunta)["result"]
+
 
 if __name__ == "__main__":
     qa = crear_cadena_qa()
